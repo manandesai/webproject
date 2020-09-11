@@ -1,2 +1,2 @@
-# Web-Project-CS465
-Spring 2020 CS465 Web Project
+# WebProject
+A web project consisting of creating a full-stack solution for instructors to keep track of course outcomes and whether the students have met said outcomes.
